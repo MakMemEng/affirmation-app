@@ -1,2 +1,4 @@
 /.env
 /.DS_Store
+/aws-app-ssh-key.pem
+/AWS_infra.drawio
